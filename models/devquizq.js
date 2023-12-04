@@ -21,4 +21,4 @@ const questionSchema = new mongoose.Schema({
 
 //export the schema as a model and reference that model.
 
-module.exports = mongoose.model("DevKittyQ", questionSchema, 'myQuestions')
+module.exports = mongoose.model("DevQuizQ", questionSchema, 'myQuestions')

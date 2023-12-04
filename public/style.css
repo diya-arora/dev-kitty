@@ -34,7 +34,7 @@ a {
 /********** HEADER **************/
 nav {
   display: flex;
-  justify-content: flex-end;
+  justify-content:space-between;
   padding-top: 2rem;
 }
 
@@ -45,15 +45,19 @@ nav {
   margin-bottom: 6.5rem;
 }
 
-.main-title-logo, .main-title {
-  max-width: 70%;
+.main-title-logo {
+  width: 48%;
 }
 
 .header-about{
+  font-weight: 400;
   margin-left: auto;
-  white-space: pre-line;
+  /* white-space: pre-line; */
 }
 
+.TITLE{
+  font-size:25vh;
+}
 
 
 
@@ -430,7 +434,7 @@ font-size: 1.2rem;
  /********** TECH USED *************/
 .tech{
   display: flex;
- flex-direction: column;
+  flex-direction: column;
   align-items: center;
   padding-top: 8rem;
 }

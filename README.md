@@ -1,10 +1,12 @@
-# Dev-Kitty
+# Dev-Quiz
 
-Dev Kitty is a full-stack web application designed to assist developers in honing their skills through a variety of technical and behavioral interview questions. The app also includes a collection of cute dog photos to create a relaxing and enjoyable learning experience. Suitable for developers of all skill levels, Dev Kitty offers a diverse selection of questions for users to practice and improve their abilities.
+Dev Quiz is a full-stack web application designed to assist developers in honing their skills through a variety of technical and behavioral interview questions. The app also includes a collection of cute dog photos to create a relaxing and enjoyable learning experience. Suitable for developers of all skill levels, Dev Quiz offers a diverse selection of questions for users to practice and improve their abilities.
 
 ### Screenshots
 
-<img src="https://github.com/diya-arora/dev-kitty/blob/main/public/img/dev-kitty-ui.jpg?raw=true" style="width: 950px;">
+<img src="./public/img/1.png" style="width: 950px;">
+<img src="./public/img/2.png" style="width: 950px;">
+<img src="./public/img/3.png" style="width: 950px;">
 
 
 ### Tech Stack

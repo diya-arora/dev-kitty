@@ -1,5 +1,5 @@
 {
-  "name": "dev-kitty",
+  "name": "dev-quiz",
   "version": "1.0.0",
   "description": "Practice dev interview questions",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diya-arora/dev-kitty.git"
+    "url": "git+https://github.com/diya-arora/dev-quiz.git"
   },
   "author": "Diya Arora",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/diya-arora/dev-kitty/issues"
+    "url": "https://github.com/diya-arora/dev-quiz/issues"
   },
-  "homepage": "https://github.com/diya-arora/dev-kitty#readme",
+  "homepage": "https://github.com/diya-arora/dev-quiz#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.2",

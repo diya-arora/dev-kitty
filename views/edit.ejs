@@ -34,7 +34,7 @@
 <section class="render-edit" id="render-edit-redirect">
 <h4 class="about-why">EDIT MY QUESTIONS</h4>
 <ul class="render-my-questions">
-<% devkittyQ.forEach(details => { %>
+<% devquizQ.forEach(details => { %>
     <% if (details._id == idTask){ %>
         <li class="add-a-question-edit">
             <form action="/edit/<%= details._id %>" method="POST" class="add-q-form-edit">
@@ -71,7 +71,7 @@
     <div class="footer-title">
       <!-- *********will have to give credit to the icons********** -->
       <a href="/"><img src="/img/footer-icon.svg" class="footer-logo" alt="yellow logo" /></a>
-      <!-- <h2>DEV KITTY</h2> -->
+      <!-- <h2>DEV QUIZ</h2> -->
     </div>
   </footer>
 
