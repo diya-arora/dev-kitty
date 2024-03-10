@@ -1,3 +1,5 @@
+//database link kia hai idhar plus server side jo bhi hai woh sab kia hai 
+
 //Declare variables 
 const express = require("express") //returns a function reference, that function is called with express()
 const app = express() //app is an object returned by express();
@@ -8,7 +10,7 @@ const MongoClient = require('mongodb').MongoClient;
 require('dotenv').config()//Things we want to keep private such as connection string to mongodb.
 
 let db,
-dbConnectionStr = "mongodb+srv://diya:123@oin.k333d9j.mongodb.net/?retryWrites=true&w=majority"
+dbConnectionStr = "mongodb+srv://diya:123@oin.k333d9j.mongodb.net/?retryWrites=true&w=majority&appName=oin"
 dbName = 'oin';
 
 // try {

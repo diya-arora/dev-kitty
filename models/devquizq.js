@@ -1,3 +1,4 @@
+//Devquizq how will data be stored in mongo 
 //can create schemas aka template with Mongoose 
 
 const mongoose = require('mongoose');

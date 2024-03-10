@@ -1,5 +1,6 @@
 "use strict";
 
+// Main.js modal, etc functions MAIN JUICE DOM manipulation
 //TODO
 //figure out how prevent the same tip from displaying back to back
 
