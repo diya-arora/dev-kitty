@@ -10,7 +10,7 @@ const MongoClient = require('mongodb').MongoClient;
 require('dotenv').config()//Things we want to keep private such as connection string to mongodb.
 
 let db,
-dbConnectionStr = "mongodb+srv://diya:123@oin.k333d9j.mongodb.net/?retryWrites=true&w=majority&appName=oin"
+dbConnectionStr = "mongodb+srv://diya:<123>@oin.k333d9j.mongodb.net/?retryWrites=true&w=majority&appName=oin"
 dbName = 'oin';
 
 // try {
